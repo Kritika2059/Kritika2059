@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritika2059&label=Profile%20views&color=0e75b6&style=flat" alt="kritika2059" /> </p>
 
-- 🌱 I’m currently learning **JAVA**
+<!-- 🌱 I’m currently learning **JAVA**-->
 
 - 📫 How to reach me **pandeykritika2059518@gmail.com**
 
