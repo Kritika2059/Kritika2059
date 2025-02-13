@@ -4,7 +4,7 @@
 
 <!-- 🌱 I’m currently learning **JAVA**-->
 
-- 📫 How to reach me **pandeykritika2059518@gmail.com**
+- 📫 How to reach me **kritikap2059@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
